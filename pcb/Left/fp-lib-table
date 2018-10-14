@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprint)(type KiCad)(uri /Users/peter/Dropbox/Keyboards/footprint.pretty)(options "")(descr ""))
+  (lib (name Mint60)(type KiCad)(uri "$(KIPRJMOD)/Mint60.pretty")(options "")(descr ""))
+)

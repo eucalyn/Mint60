@@ -1,6 +1,6 @@
 # Default keyboard layout
 
-<img src="https://raw.githubusercontent.com/ashitani/mint60/master/mint60.png">
+<img src="https://raw.githubusercontent.com/ashitani/Mint60/add_layout/layout/ming60.png">
 
 This image is created by [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com). To customize the image, upload [mint60.json](https://github.com/ashitani/mint60/blob/master/mint60.json) to the site.
 

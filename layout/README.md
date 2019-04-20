@@ -1,0 +1,10 @@
+# Default keyboard layout
+
+<img src="https://raw.githubusercontent.com/ashitani/mint60/master/mint60.png">
+
+This image is created by [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com). To customize the image, upload [mint60.json](https://github.com/ashitani/mint60/blob/master/mint60.json) to the site.
+
+# How to customize the keyboard layout itself
+
+Get [QMK firmware](https://docs.qmk.fm/) and modify keyboards/mint60.
+
